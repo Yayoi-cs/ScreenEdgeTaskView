@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenEdge": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
